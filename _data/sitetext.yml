@@ -34,6 +34,9 @@ en: &DEFAULT_EN
       - title: "Test test test"
         desc: "Test st test stet"
         icon: fab fa-angellist
+      - title: "Ny ressurs"
+        desc: "Dette er en ny ressurs"
+        icon: fab fa-android
 
   portfolio:
     title: "Emner"
